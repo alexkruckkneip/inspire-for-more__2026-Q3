@@ -1,0 +1,16 @@
+{
+  "name": "inspire-for-more__Q326",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "watch:css": "sass --watch src/sass/main.scss:src/style.css",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.104.1",
+    "vite": "^8.3.0"
+  }
+}
